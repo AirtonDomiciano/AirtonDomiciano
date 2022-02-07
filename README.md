@@ -2,7 +2,7 @@
 
 - 😃 Meu nome é Airton Domiciano. Mas pode me chamar de Flayk ✌! 
 - 👀 Hoje trabalho como desenvolvedor full-stack.
-- 💞️ Apaixonado por nodeJs.
+- 💞️ Apaixonado pela Programação.
 - 😉 Gosto de desafios na parte da programação ainda mais com novas linguagens!
 
 <div align="center">
