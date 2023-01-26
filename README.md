@@ -5,11 +5,11 @@
 - 💞️ Apaixonado pela Programação.
 - 😉 Gosto de desafios na parte da programação ainda mais com novas linguagens!
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/AirtonDomiciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AirtonDomiciano&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirtonDomiciano&layout=compact&langs_count=7&theme=aura"/>
-</div>
+</div> -->
   
   ##
   
