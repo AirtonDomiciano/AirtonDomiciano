@@ -12,7 +12,7 @@
 
 ### 🌟 Competências:
 - **Frontend**: Angular, Bootstrap, JavaScript, TypeScript, HTML5, CSS3
-- **Backend**: NestJS, GraphQL, TypeORM
+- **Backend**: NestJS, GraphQL, TypeORM, Ruby, Go
 - **Banco de Dados**: SQL Server
 - **Metodologias**: Scrum, Kanban, Jira
 - **Outros**: Mentoria e Code Review
