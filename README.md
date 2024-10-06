@@ -50,13 +50,49 @@
 </div>
 
 
-### Angular
-[Repositório de exemplo 1](https://github.com/AirtonDomiciano/carSenna)
+## 🚀 Tecnologias:
+
+### 🌐 Frontend
 
 - **Angular** [🔗 Repositório](https://github.com/AirtonDomiciano/carSenna)
   <br><a href="https://angular.io/" target="_blank">
     <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   </a>
+
+- **HTML5** [🔗 Repositório](https://github.com/airton_mio/html5-project)
+  <br><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+
+- **CSS3** [🔗 Repositório](https://github.com/airton_mio/css3-project)
+  <br><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+
+### ⚙️ Backend
+
+- **GraphQL** [🔗 Repositório](https://github.com/airton_mio/graphql-project)
+  <br><a href="https://graphql.org/" target="_blank">
+    <img align="center" alt="GraphQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  </a>
+
+- **GoLang** [🔗 Repositório](https://github.com/airton_mio/golang-project)
+  <br><a href="https://golang.org/" target="_blank">
+    <img align="center" alt="GO Lang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  </a>
+
+- **Ruby** [🔗 Repositório](https://github.com/airton_mio/ruby-project)
+  <br><a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  </a>
+
+### ⚛️ Outros
+
+- **React** [🔗 Repositório](https://github.com/airton_mio/react-project)
+  <br><a href="https://reactjs.org/" target="_blank">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </a>
+
 
 
 ## 🌍 Conecte-se comigo:
