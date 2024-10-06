@@ -53,6 +53,12 @@
 ### Angular
 [Repositório de exemplo 1](https://github.com/AirtonDomiciano/carSenna)
 
+- **Angular** [🔗 Repositório](https://github.com/AirtonDomiciano/carSenna)
+  <br><a href="https://angular.io/" target="_blank">
+    <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  </a>
+
+
 ## 🌍 Conecte-se comigo:
 
 <div align="center">
