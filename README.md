@@ -50,7 +50,7 @@
 </div>
 
 
-## 🚀 Tecnologias:
+## 🚀 Projetos:
 
 ### Angular
 [Car Senna](https://github.com/AirtonDomiciano/carSenna)
