@@ -1,4 +1,4 @@
-# 👨‍💻 Olá, eu sou o Airton Domiciano (Flayk)
+# 👨‍💻 Olá, eu sou o Airton Domiciano 
 
 ### 🚀 Versão Curta (Bio)
 Sou um desenvolvedor full-stack apaixonado por tecnologia, especializado em **Angular, NestJS e integrações financeiras**, além de mentor de novos devs.
