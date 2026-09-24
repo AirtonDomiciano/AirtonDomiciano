@@ -32,7 +32,7 @@ I work across the full delivery cycle: understanding business rules, designing m
 ## Selected projects
 
 - [**Portfolio**](https://github.com/AirtonDomiciano/portfolio) — Personal portfolio built with React, focused on expressive UI and web performance.
-- [**Ledger**](https://github.com/AirtonDomiciano) — Personal finance SaaS in development, with React, NestJS and PostgreSQL.
+- **Ledger** — Personal finance SaaS in development, built with React, NestJS and PostgreSQL.
 - [**English Agent**](https://github.com/AirtonDomiciano/english-agent) — AI-assisted learning agent with persistent context and conversation memory.
 - [**Agents Azure IMEX**](https://github.com/AirtonDomiciano/agents-azure-imex) — Engineering workflow agent for tracking work items, pull requests, pipelines and delivery learnings.
 - [**VideoAccess**](https://github.com/AirtonDomiciano/VideoAccess) — Private video platform project with a modern, component-driven product experience.
